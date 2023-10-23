@@ -1,0 +1,8 @@
+C:\Users\radio\Labs\C#\CS_DZ1\CS_DZ1\bin\Debug\CS_DZ1.exe.config
+C:\Users\radio\Labs\C#\CS_DZ1\CS_DZ1\bin\Debug\CS_DZ1.exe
+C:\Users\radio\Labs\C#\CS_DZ1\CS_DZ1\bin\Debug\CS_DZ1.pdb
+C:\Users\radio\Labs\C#\CS_DZ1\CS_DZ1\obj\Debug\CS_DZ1.csproj.AssemblyReference.cache
+C:\Users\radio\Labs\C#\CS_DZ1\CS_DZ1\obj\Debug\CS_DZ1.csproj.SuggestedBindingRedirects.cache
+C:\Users\radio\Labs\C#\CS_DZ1\CS_DZ1\obj\Debug\CS_DZ1.csproj.CoreCompileInputs.cache
+C:\Users\radio\Labs\C#\CS_DZ1\CS_DZ1\obj\Debug\CS_DZ1.exe
+C:\Users\radio\Labs\C#\CS_DZ1\CS_DZ1\obj\Debug\CS_DZ1.pdb
